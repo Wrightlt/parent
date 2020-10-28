@@ -1,0 +1,4 @@
+[submodule "src/child"]
+	path = src/child
+	url = https://github.com/Wrightlt/child.git
+	branch = master
