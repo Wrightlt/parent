@@ -2,3 +2,6 @@
 	path = src/child
 	url = https://github.com/Wrightlt/child.git
 	branch = master
+[submodule "src/submodule2"]
+	path = src/submodule2
+	url = https://github.com/Wrightlt/submodules2.git
