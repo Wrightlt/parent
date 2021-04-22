@@ -8,3 +8,6 @@
 [submodule "src/child3"]
 	path = src/child3
 	url = https://github.com/Wrightlt/test1.git
+[submodule "src/child4"]
+	path = src/child4
+	url = https://github.com/Wrightlt/hello-tsc.git
